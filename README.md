@@ -1,1 +1,223 @@
 # OIBSIP_DataAnalytics_Task2
+
+Customer Segmentation Analysis using K-Means Clustering
+Project Overview
+
+Customer segmentation is a crucial marketing strategy that enables organizations to understand customer behavior and create personalized experiences.
+
+This project focuses on analyzing customer demographics and purchasing behavior using machine learning techniques. The primary objective is to identify distinct customer groups based on income, spending patterns, and purchasing habits.
+
+The project was completed as part of the Data Analytics Internship Program at Oasis Infobyte.
+
+Organization
+
+Oasis Infobyte
+
+Internship Domain:
+Data Analytics
+
+Student Information
+
+Name: Sayed Amir Hamza
+
+Institution: Anjuman-I-Islam's Kalsekar Technical Campus (AIKTC)
+
+Program: Bachelor of Engineering
+
+Department: Computer Engineering
+
+Project Objectives
+Perform data cleaning and preprocessing
+Analyze customer purchasing behavior
+Calculate descriptive statistics
+Explore customer spending patterns
+Apply K-Means Clustering
+Identify customer segments
+Generate actionable business insights
+Recommend marketing strategies
+Dataset Information
+
+Dataset Source:
+
+Marketing Analytics Customer Segmentation Dataset
+
+Total Records:
+
+2205 Customers
+
+Total Features Used:
+
+10 Features
+
+Selected Features:
+
+Income
+Kidhome
+Teenhome
+Recency
+MntWines
+MntFruits
+MntMeatProducts
+MntFishProducts
+MntSweetProducts
+MntGoldProds
+Tools and Technologies
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Scikit-Learn
+
+Jupyter Notebook
+
+Data Cleaning
+
+The dataset was inspected for:
+
+Missing Values
+Duplicate Records
+Data Consistency
+Data Types
+Findings
+
+✅ No Missing Values
+
+✅ Dataset Ready for Analysis
+
+Exploratory Data Analysis
+Income Distribution
+
+Analysis of customer income levels revealed a wide range of purchasing power among customers.
+
+Customer Spending Distribution
+
+Total customer spending was calculated by combining spending across multiple product categories.
+
+Income vs Spending
+
+A strong positive relationship was observed between income and customer spending.
+
+Correlation Analysis
+
+A correlation heatmap was created to identify relationships between features.
+
+Key Findings
+Income strongly correlates with Total Spending
+Wine purchases have the strongest relationship with total expenditure
+Meat product purchases also significantly influence customer spending
+Customers with children generally exhibit lower spending patterns
+Customer Segmentation
+K-Means Clustering
+
+K-Means clustering was applied to segment customers into distinct groups.
+
+Optimal Number of Clusters
+
+The Elbow Method indicated:
+
+K = 4
+Customer Segments
+Cluster 0 – Premium Customers
+
+Average Income:
+
+₹79,154
+
+Average Spending:
+
+₹1,645
+
+Characteristics:
+
+Highest income group
+Highest spending group
+Most valuable customers
+Cluster 2 – High Value Customers
+
+Average Income:
+
+₹66,460
+
+Average Spending:
+
+₹937
+
+Characteristics:
+
+Strong purchasing power
+Consistent spending behavior
+Cluster 3 – Average Customers
+
+Average Income:
+
+₹48,593
+
+Average Spending:
+
+₹276
+
+Characteristics:
+
+Moderate spending behavior
+Growth opportunity segment
+Cluster 1 – Low Value Customers
+
+Average Income:
+
+₹27,321
+
+Average Spending:
+
+₹76
+
+Characteristics:
+
+Lowest spending behavior
+Require engagement campaigns
+Visualizations
+Income Distribution
+
+Customer Spending Distribution
+
+Income vs Spending
+
+Correlation Heatmap
+
+Elbow Method
+
+Customer Segments
+
+Business Insights
+Key Findings
+Customer income strongly influences spending behavior.
+Premium customers generate the highest revenue.
+Wine and meat products contribute significantly to customer expenditure.
+Low-value customers require retention and engagement strategies.
+Customer segmentation enables targeted marketing and personalized campaigns.
+Recommendations
+Premium Customers
+VIP Loyalty Programs
+Exclusive Offers
+Premium Product Recommendations
+High Value Customers
+Upselling Campaigns
+Personalized Discounts
+Average Customers
+Product Bundles
+Seasonal Promotions
+Low Value Customers
+Discount Campaigns
+Re-engagement Programs
+Conclusion
+
+Customer segmentation analysis successfully identified four distinct customer groups using K-Means clustering.
+
+The results demonstrate how machine learning and data analytics can transform customer data into actionable business insights. These findings can support targeted marketing, improve customer retention, and enhance overall business performance.
+
