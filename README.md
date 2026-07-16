@@ -252,37 +252,43 @@ Characteristics:
 
 ### Income Distribution
 
-![Income Distribution](Graphs/Income_Distribution.png)
+<img width="695" height="470" alt="Income Distribution" src="https://github.com/user-attachments/assets/24d62b4a-66b3-4d31-9bd3-6c25c1c22333" />
+
 
 ---
 
 ### Customer Spending Distribution
 
-![Spending Distribution](Graphs/Spending_Distribution.png)
+<img width="695" height="470" alt="Customer Spending Distribution" src="https://github.com/user-attachments/assets/a0a39519-c729-4ab4-bea7-dfeb3a0c893b" />
+
 
 ---
 
 ### Income vs Spending
 
-![Income vs Spending](Graphs/Income_vs_Spending.png)
+<img width="704" height="470" alt="Income vs Spending" src="https://github.com/user-attachments/assets/020a94ee-47a6-4f19-9258-717f91f96e5c" />
+
 
 ---
 
 ### Correlation Heatmap
 
-![Heatmap](Graphs/Correlation_Heatmap.png)
+<img width="883" height="642" alt="Feature Correlation Heatmap" src="https://github.com/user-attachments/assets/da1dc154-d657-4065-a957-1758031a4f52" />
+
 
 ---
 
 ### Elbow Method
 
-![Elbow Method](Graphs/Elbow_Method.png)
+<img width="704" height="470" alt="Elbow method" src="https://github.com/user-attachments/assets/fab8fa7e-1b0b-4f90-b854-52de9e2aa73d" />
+
 
 ---
 
 ### Customer Segments
 
-![Customer Segments](Graphs/Customer_Segments.png)
+![Uploading Customer Segmentation.png…]()
+
 
 ---
 
